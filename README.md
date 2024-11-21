@@ -82,20 +82,20 @@ graph TD
 
     A2[2. Prepare Data]
     A2a[Create pandas DataFrame]
-    A2b[Example: df = pd.DataFrame]
+    A2b[Example data with x and y columns]
     
     A3[3. Create Plot]
-    A3a[Create Scatter Plot]
-    A3b[Create Line Plot]
+    A3a[Scatter Plot function]
+    A3b[Line Plot function]
     
     A4[4. Customize Plot]
     A4a[Set Labels]
     A4b[Set Colors]
-    A4c[Set Themes]
+    A4c[Set Theme]
     
     A5[5. Display or Save Plot]
-    A5a[Display Plot with plt.show()]
-    A5b[Save Plot with plt.savefig()]
+    A5a[Display Plot]
+    A5b[Save Plot]
 
     A --> A1
     A --> A2
