@@ -78,8 +78,8 @@ graph TD
     A1[1. Import Libraries]
     A1a[pandas]
     A1b[matplotlib]
-    A1c[seaborn_like_library (your custom library)]
-    
+    A1c[seaborn_like_library]
+
     A2[2. Prepare Data]
     A2a[Create pandas DataFrame]
     A2b[Example: df = pd.DataFrame({'x': [1,2,3], 'y': [5,4,3]})]
@@ -119,4 +119,3 @@ graph TD
     
     A5 --> A5a
     A5 --> A5b
-
